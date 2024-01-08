@@ -5,5 +5,5 @@
 My first complete One Page from A to Z - BestShop 
 It's my first selfmade Web Page type One page .
 Page issued during CodersLab JavaScript Course, by this page i finished step 1 mentioned course.
-i Tried to use  abilities learned in this Course.
+Tried to use  abilities learned in this Course.
 Enjoy.
