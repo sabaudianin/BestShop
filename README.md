@@ -1,4 +1,4 @@
-# BestShop-one_page
+# BestShop one page.
 ## Author Rafal Bob -Sabaudianin. 
 ### Inspiration - CodersLab/ONL_FEU_W_03_Prework_HTML_CSS
 ### Mentoring Patryk Niewiada.
